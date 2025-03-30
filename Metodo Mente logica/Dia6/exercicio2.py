@@ -1,8 +1,8 @@
-#Peça ao usuário para inserir uma lista de números (separados por espaço) e calcule:
-#● O maior número
-#● O menor número
-#● A soma dos números
-#● A média dos números
+# Peça ao usuário para inserir uma lista de números (separados por espaço) e calcule:
+# ● O maior número
+# ● O menor número
+# ● A soma dos números
+# ● A média dos números
 
 entrada = input("Digite números separados por espaço: ")
 numeros = [float(num) for num in entrada.split()]
