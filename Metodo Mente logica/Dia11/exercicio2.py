@@ -4,4 +4,4 @@ palavras = frase.split()
 
 palavras_unicas = set(palavras)
 
-print(palavras_unicas)
+print("Palavras únicas:", palavras_unicas)
