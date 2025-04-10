@@ -17,4 +17,3 @@ def leitorDeArquivos():
         if 'arquivo' in locals():
             arquivo.close()
             print("Arquivo fechado!")
-
